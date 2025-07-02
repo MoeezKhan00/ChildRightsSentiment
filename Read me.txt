@@ -12,6 +12,5 @@ This project analyzes over 1.6 million tweets to understand public sentiment aro
 
 - `data/` – Raw and processed datasets.
 - `visuals/` – Graphs and word clouds used in the report.
-- `notebooks/` – Jupyter/Colab notebooks for full analysis.
 - `report/` – Final project report (PDF/DOCX).
-- `code/` – Python scripts for cleani
+- `code/` – Python scripts for cleaning, processing ,analysing and visualizing
