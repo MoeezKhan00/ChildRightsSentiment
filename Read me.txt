@@ -1,0 +1,17 @@
+# 📊 Sentiment Analysis on Child Welfare Tweets (May–June 2009)
+
+This project analyzes over 1.6 million tweets to understand public sentiment around child-related themes like education, health, child rights, and more.
+
+## 🔍 Objectives
+
+- Analyze how people feel about child welfare topics on Twitter.
+- Explore trends across different themes (Education, Health, Abuse, etc.).
+- Understand the emotional impact of real-world events (e.g., Pakistan crisis, Iran protests).
+
+## 📂 Project Structure
+
+- `data/` – Raw and processed datasets.
+- `visuals/` – Graphs and word clouds used in the report.
+- `notebooks/` – Jupyter/Colab notebooks for full analysis.
+- `report/` – Final project report (PDF/DOCX).
+- `code/` – Python scripts for cleani
